@@ -19,6 +19,6 @@ export const data = [
     id: 3,
     name: "Portfolio Website",
     image: MyPortfolio,
-    github: "",
+    github: "https://github.com/inga95/portfolio",
   },
 ];
