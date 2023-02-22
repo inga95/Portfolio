@@ -1,21 +1,17 @@
 
 
-## Available Scripts
+## Clone the project and open in for example Visual Studio Code
 
-In the project directory, you can run:
+Open the terminal and run 
+
+### `npm install`
+
+Then you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
 <img width="1000" alt="portfolio-homepage" src="https://user-images.githubusercontent.com/59847851/220582585-cdd6ce10-3d76-4d68-b466-1b5ff53e6932.png">
